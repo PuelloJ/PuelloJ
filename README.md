@@ -13,11 +13,11 @@
 - 🎮 En mi tiempo libre, disfruto de los **videojuegos** y soy fanático de **ver anime**.
 - 🏆 Me encanta incorporar elementos de **gamificación** en mis proyectos para mejorar la experiencia del usuario y motivar la participación.
 
-<div style="display: flex; align-items: center;">
+<!-- <div style="display: flex; align-items: center;">
     <p>🎨 Me gustaría desarrollar un <b>videojuego estilo pixel art con vista isométrica</b>, para crear experiencias visuales únicas y retro.</p>
 
 <img style="border-radius: 8px" src="Images/Screenshot 2024-10-18 163111.png" alt="Pixel Art Game" width="50%" />
-</div>
+</div> -->
 
 
 
