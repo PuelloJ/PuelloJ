@@ -1,76 +1,60 @@
-<h1 align="left">Hey 👋, mi nombre es Jose Puello!</h1>
 
-###
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif"  />
-</div>
-
-###
+# 👋 ¡Bienvenidos a mi perfil de GitHub!
 
 <div align="center">
-  <a href="www.linkedin.com/in/jose-puello" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/JoSePuElLo14" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  </a>
-  <a href="discordapp.com/users/495966838942072838" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://dribbble.com/SrJoSe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="dribbble logo"  />
-  </a>
-  <a href="https://medium.com/@josepuello112000" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/21443411/jose-puello" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
-  </a>
-<!--   <a href="https://www.twitch.tv/josepb00" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitch logo"  />
-  </a> -->
+  <img src="Images/banner.gif" alt="Banner" width="100%" />
 </div>
 
-###
+## 🧑‍💼 **Sobre mí**
 
-<h2 align="left">Sobre mí</h2>
+- 📚 **Estudiante y profesional en ingeniería de sistemas** con experiencia en el desarrollo de software.
+- 🌱 Actualmente, trabajando en proyectos relacionados con los **Objetivos de Desarrollo Sostenible (ODS)**.
+- 🚀 Me gusta combinar el desarrollo de software con **estrategias de automatización y eficiencia**.
+- 🎮 En mi tiempo libre, disfruto de los **videojuegos** y soy fanático de **ver anime**.
+- 🏆 Me encanta incorporar elementos de **gamificación** en mis proyectos para mejorar la experiencia del usuario y motivar la participación.
 
-###
+<div style="display: flex; align-items: center;">
+    <p>🎨 Me gustaría desarrollar un <b>videojuego estilo pixel art con vista isométrica</b>, para crear experiencias visuales únicas y retro.</p>
 
-<p align="left">
-📚 Aprendiendo actualmente: Ampliando conocimientos en desarrollo web, explorando frameworks de JavaScript y desarrollo de aplicaciones móviles.<br><br>
-🎯 Metas: Convertirme en un desarrollador full-stack competente, enfocado en crear aplicaciones eficientes y amigables para los usuarios.<br><br>
-🎲 Dato curioso: Además de programar, disfruto jugar videojuegos y ver anime.<br><br>
-💻 Entusiasta de la tecnología: Me apasiona la tecnología y siempre me mantengo al día con las últimas tendencias y avances.<br><br>
+<img style="border-radius: 8px" src="Images/Screenshot 2024-10-18 163111.png" alt="Pixel Art Game" width="50%" />
+</div>
+
+
+
+## ⚙️ **Tecnologías y Herramientas**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
-###
 
-<h2 align="left">Tecnologías</h2>
+## 🛠️ **Proyectos en los que estoy trabajando**
 
-###
+[![Bookmark Style Card](Images/web-visual-bookmark@2x.png)](https://github.com/PuelloJ/bio-clean-earth) 
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=dart" height="50" alt="dart logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="flutter logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-  <img width="25" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-</div>
+## 📫 **Contáctame**
 
-###
+<p align="center">
+  <a href="mailto:josepuello112000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="www.linkedin.com/in/jose-puello/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/JoSePuElLo14">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
+
+
+
