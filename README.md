@@ -28,9 +28,9 @@
 </p>
 
 
-## 🛠️ **Proyectos en los que estoy trabajando**
+<!-- ## 🛠️ **Proyectos en los que estoy trabajando**
 
-[![Bookmark Style Card](Images/web-visual-bookmark@2x.png)](https://github.com/PuelloJ/bio-clean-earth) 
+[![Bookmark Style Card](Images/web-visual-bookmark@2x.png)](https://github.com/PuelloJ/bio-clean-earth)  -->
 
 ## 📫 **Contáctame**
 
