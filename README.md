@@ -90,7 +90,7 @@ Siempre explorando nuevas tecnologías
 
 [![Bookmark Style Card](Images/web-visual-bookmark@2x.png)](https://github.com/PuelloJ/bio-clean-earth)  -->
 
-## 📫 **Cotacto**
+## 📫 **Contacto**
 
 <div align="center">
 
