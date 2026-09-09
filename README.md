@@ -21,7 +21,7 @@ Soy ingeniero de sistemas con enfoque en desarrollo **mobile multiplataforma** y
 | | |
 |---|---|
 | 🚀 **Full Stack** | Aplicaciones de extremo a extremo: frontend, backend y base de datos. |
-| 📱 **Mobile** | Experiencias nativas y multiplataforma con **Flutter**, **Dart** y **React**. |
+| 📱 **Mobile** | Experiencias nativas y multiplataforma con **Flutter**, **Dart**. |
 | 🎮 **Gamificación** | Mecánicas de juego para mejorar el engagement y la experiencia de usuario. |
 | 🌱 **Crecimiento** | Aprendizaje continuo y exploración constante de nuevas tecnologías. |
 
