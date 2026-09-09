@@ -1,112 +1,44 @@
-<div align="center">
-  <img src="Images/banner.gif" alt="Banner" width="100%" />
-</div>
+<p align="center">
+  <img src="Images/banner.jpeg" alt="Banner" width="100%" style="border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,0.35);" />
+</p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=👋+Hola%2C+Soy+Jose+Puello;Ingeniero+de+Sistemas;Desarrollador+Full+Stack;Especialista+en+Mobile+🚀" alt="Typing SVG" />
+  <span>Jose Puello</span>
 </h1>
 
 <p align="center">
-  <a href="https://github.com/PuelloJ">
-    <img src="https://komarev.com/ghpvc/?username=PuelloJ&color=blueviolet&style=flat-square&label=Visitas+al+Perfil" alt="Profile views" />
-  </a>
-  <a href="https://github.com/PuelloJ?tab=followers">
-    <img src="https://img.shields.io/github/followers/PuelloJ?label=Seguidores&style=flat-square&color=blue" alt="GitHub followers" />
-  </a>
+  <b>Ingeniero de Sistemas</b> &nbsp;·&nbsp; <b>Desarrollador Full Stack</b> &nbsp;·&nbsp; <b>Especialista en Mobile</b>
 </p>
 
----
+<br/>
 
-## 🚀 **Sobre Mí**
+## 👋 Sobre mí
 
-```typescript
-const jose = {
-  titulo: "Ingeniero de Sistemas",
-  enfoque: ["Desarrollo Mobile", "Full Stack", "Gamificación"],
-  actualmente: "Construyendo experiencias móviles multiplataforma",
-};
-```
+Soy ingeniero de sistemas con enfoque en desarrollo **mobile multiplataforma** y **full stack**. Combino buenas prácticas de diseño con una base técnica sólida para crear productos que se sienten simples por fuera y poderosos por dentro.
 
-<table align="center">
+## 💼 Experiencia
 
-  <tr>
-    <td align="center" width="50%">
-      
-📱 **Mobile First**
-      
-Experiencias móviles fluidas y atractivas
+| | |
+|---|---|
+| 🚀 **Full Stack** | Aplicaciones de extremo a extremo: frontend, backend y base de datos. |
+| 📱 **Mobile** | Experiencias nativas y multiplataforma con **Flutter**, **Dart** y **React**. |
+| 🎮 **Gamificación** | Mecánicas de juego para mejorar el engagement y la experiencia de usuario. |
+| 🌱 **Crecimiento** | Aprendizaje continuo y exploración constante de nuevas tecnologías. |
 
-</td>
-    <td align="center" width="50%">
-      
-🌱 **Aprendizaje Continuo**
-      
-Siempre explorando nuevas tecnologías
+## 🛠️ Tecnologías principales
 
-</td>
-  </tr>
-</table>
+| Área | Tecnologías |
+| ---- | ----------- |
+| **Frontend & Mobile** | Flutter, Dart, React, Next.js, Angular |
+| **Backend & BDD** | Node.js, NestJS, .NET, Python, Firebase |
+| **Herramientas** | Git, Docker, Figma, GitHub |
 
-## 🛠️ **Stack Tecnológico**
+<br/>
 
-### 💻 **Frontend & Mobile**
+## 📫 Contacto
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <a href="mailto:josepuello112000@gmail.com">✉️ Email</a> ·
+  <a href="www.linkedin.com/in/puelloj">💼 LinkedIn</a> ·
+  <a href="https://github.com/PuelloJ">🐙 GitHub</a>
 </p>
-
-### ⚙️ **Backend & Database**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
-
-### 🔧 **Herramientas & Plataformas**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-</p>
-
-<!-- ## 🛠️ **Proyectos Destacados**
-
-[![Bookmark Style Card](Images/web-visual-bookmark@2x.png)](https://github.com/PuelloJ/bio-clean-earth)  -->
-
-## 📫 **Contacto**
-
-<div align="center">
-
-<p align="center">
-  <a href="mailto:josepuello112000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/jose-puello/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" />
-</div>
-
-
