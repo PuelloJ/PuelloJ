@@ -33,7 +33,7 @@ Soy ingeniero de sistemas con enfoque en desarrollo **mobile multiplataforma** y
 | **Backend & BDD** | Node.js, NestJS, .NET, Python, Firebase |
 | **Herramientas** | Git, Docker, Figma, GitHub |
 
-<br/>
+<br/> 
 
 ## 📫 Contacto
 
