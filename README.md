@@ -18,7 +18,7 @@ Soy ingeniero de sistemas con enfoque en desarrollo **mobile multiplataforma** y
 
 ## 💼 Experiencia
 
-| | |
+| Habilidad | Descripción |
 |---|---|
 | 🚀 **Full Stack** | Aplicaciones de extremo a extremo: frontend, backend y base de datos. |
 | 📱 **Mobile** | Experiencias nativas y multiplataforma con **Flutter**, **Dart**. |
